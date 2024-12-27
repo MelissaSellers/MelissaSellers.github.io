@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [recipe generator](https://github.com/MelissaSellers/MelissaSellers.github.io/blob/main/docs/assets/Recipe%20Generator.html)
 
 ### Project 2
 - Description
