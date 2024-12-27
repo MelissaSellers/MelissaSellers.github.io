@@ -12,6 +12,6 @@
 # Education
 - Some University
 
-#Work History
+# Work History
 - Work Place 1
 - Work Place 2
