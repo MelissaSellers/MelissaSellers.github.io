@@ -1,1 +1,5 @@
-
+title: Cookbook
+logo
+description: Cookbook for the Sellers Family
+#show_downloads: true
+theme: jekyll-theme-minimal
